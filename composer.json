@@ -1,0 +1,25 @@
+{
+    "name": "remoharsono/remo-framework",
+    "description": "a simple framework for building simple website (Stupid Simple PHP Framework)",
+	"keywords" : ["framework","super simple framework" ],
+    "require": {
+        "php": "^7.0"
+    },
+    "license": "MIT",
+    "authors": [
+		{
+            "name": "remoharsono",
+            "email": "remoharsono@gmail.com",
+			"homepage" : "https://github.com/remoharsono",
+			"role" : "founder"
+        },
+        {
+            "name": "ydatech",
+            "email": "yudasukmana1992@gmail.com",
+			"homepage" : "https://github.com/ydatech"
+			"role" : "contributor"
+			
+        }
+    ],
+    "minimum-stability": "stable"
+}
